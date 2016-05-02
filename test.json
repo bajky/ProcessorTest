@@ -1,0 +1,15 @@
+{
+	"name": "Davidko",
+	"lastName": "Bajko",
+	"age": 35,
+	"childPojo":{
+		"childName": "Janko",
+		"childLastName": "Hrasko",
+		"kindAge": 10,
+		"toyPojo":{
+			"title": "car toy",
+			"amount": 1
+		}
+	},
+	"something": 5
+}
